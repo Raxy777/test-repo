@@ -1,1 +1,3 @@
 hi this will fix the problem of the code in the file2.txt.
+
+fixed another bug.
